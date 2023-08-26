@@ -1,0 +1,29 @@
+/* acte naissnce */
+ .numbers{
+    width: 400px;
+    margin-left: 70px;
+    border: 2px solid gray;
+} 
+.color{
+    background-color: #9c9cf5;
+    height: 400px;
+}
+.fre{
+    width: 133px;
+    height: 29px;
+
+}
+
+.jey{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 35px auto;
+    width: 135px;
+    height: 37px;
+    padding-bottom: 4px;
+    padding-right: 5px;
+    
+    background-color: rgb(235, 240, 245);
+    border: 2px solid #000059;
+}
